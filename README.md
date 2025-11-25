@@ -4,13 +4,13 @@ Este repositorio contiene únicamente las políticas de privacidad, términos de
 
 ## 🌐 Sitio Web
 
-Publicado en: **https://tom4stapia.github.io/bloqueados-policies/**
+Publicado en: **https://bloqueados.github.io/bloqueados-policies**
 
 ## 📄 Páginas Incluidas
 
 - **Inicio:** Información general sobre la app
-- **Política de Privacidad:** https://tom4stapia.github.io/bloqueados-policies/privacy.html
-- **Términos de Servicio:** https://tom4stapia.github.io/bloqueados-policies/terms.html
+- **Política de Privacidad:** https://bloqueados.github.io/bloqueados-policies/privacy.html
+- **Términos de Servicio:** https://bloqueados.github.io/bloqueados-policies/terms.html
 
 ## 📱 Acerca de Bloqueados
 
